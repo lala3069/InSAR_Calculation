@@ -39,3 +39,4 @@ Additionally, several functions to compare InSAR (or any grid files) are also av
 - Blewitt, G., Hammond, W., & Kreemer, C. (2018). Harnessing the GPS Data Explosion for Interdisciplinary Science. Eos, 99. https://doi.org/10.1029/2018EO104623
 - Fialko, Y., Simons, M., & Agnew, D. (2001). The complete (3‐D) surface displacement field in the epicentral area of the 1999 Mw 7.1 Hector Mine Earthquake, California, from space geodetic observations. Geophysical Research Letters, 28(16), 3063–3066. https://doi.org/10.1029/2001GL013174
 - Lindsey, E. O., & Fialko, Y. (2016). Geodetic constraints on frictional properties and earthquake hazard in the Imperial Valley, Southern California. Journal of Geophysical Research: Solid Earth, 121(2), 1097–1113. https://doi.org/10.1002/2015JB012516
+# InSAR_Calculation
