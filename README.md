@@ -5,7 +5,7 @@ $$d_{los} =[U_n  sin⁡(ϕ)-U_e  cos⁡(ϕ) ]⋅sin⁡(λ)+U_u cos⁡(λ)$$
 
 Then, the fault parallel deformation velocity projection is calculated with the following equations (Lindsey et al., 2014):
 
-$$\begin{bmatrix}
+$$ G = \begin{bmatrix}
 LOS_{u1} & LOS_{f1} \\
 LOS_{u2} & LOS_{f2}
 \end{bmatrix}$$
