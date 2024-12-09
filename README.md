@@ -35,6 +35,12 @@ Additionally, several functions to compare InSAR (or any grid files) are also av
 - [PyGMT](https://www.pygmt.org/latest/)
 - Standard Python libraries: numpy, pandas, and Xarray
 
+### Installation:
+To install, clone this library to the computer using ```git clone``` or download and unzip. Then, within the cloned library directory and your preferred environment run ```pip install .```. 
+
+### Usage:
+You can import this library as ``` import InSAR_Calculation ```; see the [Example](https://github.com/lala3069/InSAR_Calculation/tree/main/Example) for more details.
+
 ## References
 - Blewitt, G., Hammond, W., & Kreemer, C. (2018). Harnessing the GPS Data Explosion for Interdisciplinary Science. Eos, 99. https://doi.org/10.1029/2018EO104623
 - Fialko, Y., Simons, M., & Agnew, D. (2001). The complete (3‐D) surface displacement field in the epicentral area of the 1999 Mw 7.1 Hector Mine Earthquake, California, from space geodetic observations. Geophysical Research Letters, 28(16), 3063–3066. https://doi.org/10.1029/2001GL013174
